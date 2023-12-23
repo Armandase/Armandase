@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Armand</h1>
 <h3 align="center">data and artificial intelligence enthusiast</h3>
 
-- 🔭 I’m currently working on [multi-layer perceptron](https://github.com/Armandase/multilayer-perceptron)
+- 🔭 I’m currently working on data total-perspective-vortex
 
-- 🌱 I’m currently learning **neural network and machine learning**
+- 🌱 I’m currently learning **data science, specifically machine learning.**
 
 - 💬 Ask me about **C, C++ or python**
 
