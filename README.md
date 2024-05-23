@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Armand</h1>
 <h3 align="center">data and artificial intelligence enthusiast</h3>
 
-- 🔭 I’m currently working on multi-modal ia models.
+- 🔭 I’m currently working on multi-modal ai models.
 
 - 🌱 I’m currently learning **data science, specifically deep learning.**
 
