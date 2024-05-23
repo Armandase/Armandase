@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on multi-modal ai models.
 
-- 🌱 I’m currently learning **data science, specifically deep learning.**
+- 🌱 I’m currently learning **data science, especially deep learning.**
 
 - 💬 Ask me about **C, C++ or python**
 
