@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **data science, especially deep learning.**
 
-- 💬 Ask me about **C, C++ or python**
+- 💬 Ask me about **Pytorch, python, C or C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
