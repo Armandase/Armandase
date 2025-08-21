@@ -11,7 +11,7 @@
 <p align="left">
 </p>
 
-- 🫨 discord: armandase
+- 🌐 discord: armandase
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
