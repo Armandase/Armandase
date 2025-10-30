@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Armand</h1>
 <h3 align="center">Deep learning student</h3>
 
-- 🔭 I’m currently working on multimodal deep learning models.
+- 🔭 I’m working on multimodal deep learning models.
 
 - 🌱 Currently implementing and experimenting with models from research papers.
 
