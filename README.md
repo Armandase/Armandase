@@ -1,11 +1,11 @@
-<h1 align="center">AI Developer & Research | Deep Learning & Computer Vision</h3>
+<h1 align="center">AI Developer & Researcher | Deep Learning & Computer Vision</h3>
 
 ---
 
 ### Research Interests
 - Multimodal representation learning
-- Segmentation modles
-- Uncertainty quantification in machine learning
+- Segmentation models
+- Uncertainty quantification
 - Active learning
 
 ---
