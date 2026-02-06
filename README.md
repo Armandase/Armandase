@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Armand</h1>
+<h1 align="center">Hi, I'm Armand</h1>
 <h3 align="center">Deep learning student</h3>
 
-- 🔭 I’m working on multimodal deep learning models.
+- I’m working on multimodal deep learning models.
 
-- 🌱 Currently implementing and experimenting with models from research papers.
+- Currently implementing and experimenting with models from research papers.
 
-- 💬 Ask me about **PyTorch, TensorFlow, Keras, Python, C or C++**
+- Ask me about **PyTorch, TensorFlow, Keras, Python, C or C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
