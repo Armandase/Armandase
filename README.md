@@ -11,11 +11,11 @@
 ---
 
 ### Technical Stack
-**Languages:** Python, C, C++  
-**ML/DL Frameworks:** PyTorch, TensorFlow, Keras  
-**Scientific & Data:** NumPy, SciPy, scikit-learn, OpenCV, Pandas  
-**Visualization:** Matplotlib, Seaborn, SDL2
-**Tools:** Git, Docker, LaTeX
+**Languages:** Python, C, C++ </br>
+**ML/DL Frameworks:** PyTorch, TensorFlow, Keras </br>
+**Scientific & Data:** NumPy, SciPy, scikit-learn, OpenCV, Pandas </br>
+**Visualization:** Matplotlib, Seaborn, SDL2 </br>
+**Tools:** Git, Docker, LaTeX, Make
 
 ---
 
