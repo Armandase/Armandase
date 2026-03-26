@@ -3,9 +3,10 @@
 ---
 
 ### Research Interests
-- Multimodal representation learning
 - Segmentation models
+- Few Shot Learning
 - Uncertainty quantification
+- Multimodal representation learning
 - Active learning
 
 ---
