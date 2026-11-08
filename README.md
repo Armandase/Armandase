@@ -1,4 +1,4 @@
-<h1 align="center">AI Developer & Researcher | Deep Learning & Computer Vision</h3>
+<h1 align="center">AI Researcher | Deep Learning & Computer Vision</h3>
 
 ---
 
@@ -13,8 +13,8 @@
 
 ### Technical Stack
 **Languages:** Python, C, C++ </br>
-**ML/DL Frameworks:** PyTorch, TensorFlow, Keras </br>
-**Scientific & Data:** NumPy, SciPy, scikit-learn, OpenCV, Pandas </br>
+**ML/DL Frameworks:** PyTorch, HuggingFace, Keras </br>
+**Scientific & Data:** NumPy, SciPy, scikit-learn, OpenCV, Pandas, sql </br>
 **Visualization:** Matplotlib, Seaborn, SDL2 </br>
 **Tools:** Git, Docker, LaTeX, Make
 
